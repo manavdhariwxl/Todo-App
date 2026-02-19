@@ -1,2 +1,2 @@
 # Todo-App
-A task management application to add,delete,and manage Daily tasks.
+This project demonstrates CRUD operations using javascript and local storage for saving tasks.
